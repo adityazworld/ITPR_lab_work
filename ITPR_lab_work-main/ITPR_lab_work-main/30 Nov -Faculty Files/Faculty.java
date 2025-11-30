@@ -1,4 +1,4 @@
-package com.knmodicollege.collegemanagemet.models;
+package com.knmodicollege.collegemanagement.models;
 
 public class Faculty 
 {
