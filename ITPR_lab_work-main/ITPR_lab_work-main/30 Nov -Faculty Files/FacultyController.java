@@ -1,10 +1,10 @@
-package com.knmodicollege.collegemanagemet.controller;
+package com.knmodicollege.collegemanagement.controller;
 
 import java.util.Scanner;
 
-import com.knmodicollege.collegemanagemet.models.Faculty;
-import com.knmodicollege.collegemanagemet.service.FacultyService;
-import com.knmodicollege.collegemanagemet.service.impl.FacultyServiceImpl;
+import com.knmodicollege.collegemanagement.model.Faculty;
+import com.knmodicollege.collegemanagement.service.FacultyService;
+import com.knmodicollege.collegemanagement.service.impl.FacultyServiceImpl;
 
 public class FacultyController 
 {
