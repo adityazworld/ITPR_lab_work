@@ -1,11 +1,11 @@
-package com.knmodicollege.collegemanagemet.dao.Impl;
+package com.knmodicollege.collegemanagement.dao.Impl;
 
 import java.sql.*;
 import java.util.ArrayList;
 
-import com.knmodicollege.collegemanagemet.dao.FacultyDAO;
-import com.knmodicollege.collegemanagemet.models.Faculty;
-import com.knmodicollege.collegemanagemet.util.DataBaseUtil;
+import com.knmodicollege.collegemanagement.dao.FacultyDAO;
+import com.knmodicollege.collegemanagement.model.Faculty;
+import com.knmodicollege.collegemanagement.util.DataBaseUtil;
 
 /*---------------------------------------------------
  * ------- Structure Of the Faculty ---------
