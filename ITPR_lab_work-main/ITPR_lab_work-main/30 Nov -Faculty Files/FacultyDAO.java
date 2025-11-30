@@ -1,7 +1,7 @@
-package com.knmodicollege.collegemanagemet.dao;
+package com.knmodicollege.collegemanagement.dao;
 
 import java.util.ArrayList;
-import com.knmodicollege.collegemanagemet.models.Faculty;
+import com.knmodicollege.collegemanagement.model.Faculty;
 
 public interface FacultyDAO {
 
